@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Guess the Number - 2 Player</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>🎮 Guess the Number</h1>
+
+    <div class="mode-switch">
+      <label>
+        <input type="checkbox" id="darkToggle" />
+        <span>🌙 Dark Mode</span>
+      </label>
+    </div>
+
+    <div id="setupScreen">
+      <h2>Player 1: Set a number</h2>
+      <input type="number" id="setNumber" placeholder="Enter a number" />
+      <button id="startGame">Start Game</button>
+    </div>
+
+    <div id="gameScreen" class="hidden">
+      <h2>Player 2: Guess the number!</h2>
+      <input type="number" id="guessInput" placeholder="Enter your guess" />
+      <button id="submitGuess">Guess</button>
+      <p id="message"></p>
+      <p id="attemptsLeft">Attempts left: 10</p>
+    </div>
+
+    <div id="endScreen" class="hidden">
+      <h2 id="endMessage"></h2>
+      <p class="emoji">🎉</p>
+      <button onclick="location.reload()">🔄 Play Again</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
