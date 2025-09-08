@@ -32,9 +32,15 @@ Player 1 sets a secret number, and Player 2 tries to guess it within 10 attempts
 ---
 
 ## 📸 Screens
-- Setup Screen: Player 1 sets the number  
-- Game Screen: Player 2 guesses  
-- End Screen: Win/Lose result with replay option  
+- Setup Screen: Player 1 sets the number
+- <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/20b24eaa-a233-4055-b163-20105f6d0b6e" />
+  
+- Game Screen: Player 2 guesses
+- <img width="1919" height="833" alt="image" src="https://github.com/user-attachments/assets/50a7da6a-9a36-4aff-a54b-487999cc1747" />
+
+- End Screen: Win/Lose result with replay option
+- <img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/6051333f-c5ce-4ac3-9043-3b4668151062" />
+
 
 ---
 
