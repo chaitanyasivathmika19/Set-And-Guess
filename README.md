@@ -9,6 +9,13 @@ Player 1 sets a secret number, and Player 2 tries to guess it within 10 attempts
 
 ## 📂 Project Structure
 
+/ (root)  
+│── index.html   # 🏗️ Main HTML structure  
+│── style.css    # 🎨 Styles (light & dark themes)  
+│── script.js    # 🧠 Game logic and interactivity  
+│── README.md    # 📘 Documentation  
+
+
 ---
 
 ## ✨ Features
