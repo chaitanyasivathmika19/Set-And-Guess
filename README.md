@@ -3,6 +3,12 @@
 **Set 1 & Guess 1** is a fun two-player number guessing game!  
 Player 1 sets a secret number, and Player 2 tries to guess it within 10 attempts.  
 
+🔗 **Live Demo:** [Play Here](https://chaitanyasivathmika19.github.io/Set-And-Guess/)
+
+---
+
+## 📂 Project Structure
+
 ---
 
 ## ✨ Features
