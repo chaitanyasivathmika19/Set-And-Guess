@@ -58,5 +58,3 @@ Player 1 sets a secret number, and Player 2 tries to guess it within 10 attempts
 
 ## 📌Overall about the Game
 Set 1 & Guess 1 is a two-player number guessing challenge where Player 1 sets a secret number and Player 2 has 10 attempts to guess it. Get hints like “too high,” “too low,” or “so close” while playing. Win by guessing right or lose when attempts run out. Features include dark mode, results screen, and replay!  
-
----
